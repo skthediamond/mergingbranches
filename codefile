@@ -2,5 +2,9 @@
 #include<stdio.h>
 {
 void clrscr();
+int add()
+{
+return o;
+}
 void getch();
 }
